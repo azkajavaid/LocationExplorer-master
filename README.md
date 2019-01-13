@@ -1,0 +1,3 @@
+### Location Explorer Shiny Application 
+
+Location Explorer shiny application, accessible at https://aj17.shinyapps.io/locationexplorer/, displays location enabled local businesses, landmarks, and transit information via the Google Places API. In addition, this app displays local events via the Meetup and Eventbrite APIs and food vendors via the Yelp API. Specify a location by clicking on the map or by manually searching the address by vendor and event type and timeframe. Click on a popup to retrieve more information about the business/event. By combining business, event and food services, Location Explorer Application provides a centralized and systematized platform for information retrieval.

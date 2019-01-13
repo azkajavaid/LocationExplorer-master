@@ -1,0 +1,17 @@
+name: locationexplorer
+title:
+username:
+account: aj17
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+<<<<<<< HEAD
+appId: 245548
+bundleId: 1201343
+url: https://aj17.shinyapps.io/locationexplorer/
+when: 1517417294.27368
+=======
+appId: 271549
+bundleId: 1206336
+url: https://aj17.shinyapps.io/locationexplorer/
+when: 1517706244.21267
+>>>>>>> cc960b22b31d45d121c68c6d715302aedf267f66
